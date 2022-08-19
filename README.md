@@ -26,6 +26,8 @@ Once this is done you just have to run it.<br>
 In the Unloockey.cfg file there are things like:<br>
 Years, in case you want to add years to the password.<br>
 succession of numbers, from 123 to 1234567890.<br>
+Numbers from 0 to 100.<br>
+Capitalize the first letter of each word.<br>
 Special characters are special characters.
 <br>
 NOTE:<br>
@@ -61,6 +63,7 @@ En el archivo Unloockey.cfg hay cosas como:<br>
 Años, por si queres agregarle años a la contraseña.<br>
 susecion de numeros, de 123 hasta 1234567890.<br>
 Numeros del 0 al 100.<br>
+Mayuscula en la primer letra de cada palabra.<br>
 Caracteres especiales, son caracteres especiales.<br>
 <br>
 NOTA:<br>
