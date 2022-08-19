@@ -60,11 +60,12 @@ Una vez hecho esto se ejecuta y listo.<br>
 En el archivo Unloockey.cfg hay cosas como:<br>
 Años, por si queres agregarle años a la contraseña.<br>
 susecion de numeros, de 123 hasta 1234567890.<br>
+Numeros del 0 al 100.<br>
 Caracteres especiales, son caracteres especiales.<br>
 <br>
 NOTA:<br>
-EN LA LINEA 38 DE Unloockey.py SE AGREGAN NUMEROS DEL 0 AL 100, FAVOR DE COMENTAR LA LINEA SI NO SE QUIERE ESO.<br>
-<br>
-ESTO ES TODO CON FINES EDUCATIVO Y NO ILEGALES, ME DESLIGO DE CUALQUIER OTRO USO QUE SE LE DÉ.<br>
-<br>
-OBVIAMENTE ES DE USO LIBRE Y SE PUEDE MODIFICAR Y COPIAR.<br>
+
+
+ESTO ES TODO CON FINES EDUCATIVOS Y NO ILEGALES, RECHAZO CUALQUIER OTRO USO.<br>
+
+OBVIAMENTE ES DE USO GRATUITO Y SE PUEDE MODIFICAR Y COPIAR.<br>
