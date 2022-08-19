@@ -2,7 +2,7 @@
 Wordlist maker
 
 <p><br>
-//////////////////ASCII ART HERE///////////////
+//////////////////ASCII ART HERE//////////////////
 </p><br>
 <br>
 HOW TO USE???<br>
