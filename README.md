@@ -1,40 +1,40 @@
 # Unloockey
-Creador de wordlists
+Wordlist maker
 
-
+<p>
 @@@  @@@ @@@  @@@ @@@       @@@@@@   @@@@@@   @@@@@@@ @@@  @@@ @@@@@@@@ @@@ @@@
 @@!  @@@ @@!@!@@@ @@!      @@!  @@@ @@!  @@@ !@@      @@!  !@@ @@!      @@! !@@
 @!@  !@! @!@@!!@! @!!      @!@  !@! @!@  !@! !@!      @!@@!@!  @!!!:!    !@!@!
 !!:  !!! !!:  !!! !!:      !!:  !!! !!:  !!! :!!      !!: :!!  !!:        !!:
  :.:: :  ::    :  : ::.: :  : :. :   : :. :   :: :: :  :   ::: : :: ::    .:
-
+</p>
 <br>
-COMO SE USA???<br>
-SE MODIFICA EL ARCHIVO profile.txt<br>
-SE ESPECIFICA LOS DATOS DEL PERFIL DE LA PERSONA EN CUESTION <br>
+HOW TO USE???<br>
+THE FILE profile.txt IS MODIFIED<br>
+THE PROFILE DATA OF THE PERSON IN QUESTION IS SPECIFIED <br>
 
 
-EJEMPLO:<br>
+EXAMPLE:<br>
 <br>
 birthday:21112022<br>
-address:calle falsa 123<br>
-palabra<br>
-palabra<br>
-palabra<br>
-numero<br>
-numero<br>
-palabra<br>
+address:false street 123<br>
+word<br>
+word<br>
+word<br>
+number<br>
+number<br>
+word<br>
 <br>
-Una vez hecho esto se ejecuta y listo.<br>
+Once this is done it is executed and ready.<br>
 <br>
-En el archivo Unloockey.cfg hay cosas como:<br>
-Años, por si queres agregarle años a la contraseña.<br>
-susecion de numeros, de 123 hasta 1234567890.<br>
-Caracteres especiales, son caracteres especiales.
+In the Unloockey.cfg file there are things like:<br>
+Years, in case you want to add years to the password.<br>
+succession of numbers, from 123 to 1234567890.<br>
+Special characters are special characters.
 <br>
-NOTA:<br>
-EN LA LINEA 38 DE Unloockey.py SE AGREGAN NUMEROS DEL 0 AL 100, FAVOR DE COMENTAR LA LINEA SI NO SE QUIERE ESO.<br>
+NOTE:<br>
+IN LINE 38 OF Unloockey.py NUMBERS FROM 0 TO 100 ARE ADDED, PLEASE COMMENT THE LINE IF YOU DO NOT WANT THAT.<br>
 <br>
-ESTO ES TODO CON FINES EDUCATIVO Y NO ILEGALES, ME DESLIGO DE CUALQUIER OTRO USO QUE SE LE DÉ.<br>
+THIS IS ALL FOR EDUCATIONAL AND NOT ILLEGAL PURPOSES, I DISCLAIM ANY OTHER USE.<br>
 <br>
-OBVIAMENTE ES DE USO LIBRE Y SE PUEDE MODIFICAR Y COPIAR.<br>
+OBVIOUSLY IT IS FREE TO USE AND CAN BE MODIFIED AND COPIED.<br>
