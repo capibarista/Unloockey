@@ -21,7 +21,7 @@ number<br>
 number<br>
 word<br>
 <br>
-Once this is done it is executed and ready.<br>
+Once this is done you just have to run it.<br>
 <br>
 In the Unloockey.cfg file there are things like:<br>
 Years, in case you want to add years to the password.<br>
