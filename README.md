@@ -1,0 +1,2 @@
+# Unloockey
+Creador de wordlists
