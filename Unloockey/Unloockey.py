@@ -1,26 +1,6 @@
 
-import argparse
-import sys
 from itertools import permutations
 import configparser
-import argparse
-
-
-class MyParser(argparse.ArgumentParser):
-    def error(self, message):
-        sys.stderr.write('error: %s\n' % message)
-        self.print_help()
-        sys.exit(2)
-
-
-parser = MyParser()
-args = parser.parse_args()
-
-
-def print_help():
-    with open("help.txt") as f:
-        print(f.read())
-
 
 cfg = configparser.ConfigParser()
 cfg.read("Unloockey.cfg")
