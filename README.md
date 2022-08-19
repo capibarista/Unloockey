@@ -31,7 +31,6 @@ Capitalize the first letter of each word.<br>
 Special characters are special characters.
 <br>
 NOTE:<br>
-IN LINE 38 OF Unloockey.py NUMBERS FROM 0 TO 100 ARE ADDED, PLEASE COMMENT THE LINE IF YOU DO NOT WANT THAT.<br>
 <br>
 THIS IS ALL FOR EDUCATIONAL AND NOT ILLEGAL PURPOSES, I DISCLAIM ANY OTHER USE.<br>
 
