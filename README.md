@@ -6,7 +6,7 @@ Wordlist maker
 </p><br>
 <br>
 HOW TO USE???<br>
-THE FILE profile.txt IS MODIFIED<br>
+MODIFY THE FILE profile.txt <br>
 THE PROFILE DATA OF THE PERSON IN QUESTION IS SPECIFIED <br>
 
 
