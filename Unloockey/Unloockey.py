@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+
 import argparse
 import sys
 from itertools import permutations
