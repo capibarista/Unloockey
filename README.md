@@ -29,7 +29,7 @@ succession of numbers, from 123 to 1234567890.<br>
 Numbers from 0 to 100.<br>
 Capitalize the first letter of each word.<br>
 Special characters are special characters.
-<br>
+<br><br>
 NOTE:<br>
 <br>
 THIS IS ALL FOR EDUCATIONAL AND NOT ILLEGAL PURPOSES, I DISCLAIM ANY OTHER USE.<br>
@@ -38,7 +38,7 @@ OBVIOUSLY IT IS FREE TO USE AND CAN BE MODIFIED AND COPIED.<br>
 
 <br><br>
 <br>
-
+------------------------------------------------------------------------------
 <br>
 COMO SE USA???<br>
 SE MODIFICA EL ARCHIVO profile.txt<br>
@@ -64,9 +64,8 @@ susecion de numeros, de 123 hasta 1234567890.<br>
 Numeros del 0 al 100.<br>
 Mayuscula en la primer letra de cada palabra.<br>
 Caracteres especiales, son caracteres especiales.<br>
-<br>
+<br><br><br>
 NOTA:<br>
-
 
 ESTO ES TODO CON FINES EDUCATIVOS Y NO ILEGALES, RECHAZO CUALQUIER OTRO USO.<br>
 
