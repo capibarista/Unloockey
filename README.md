@@ -70,3 +70,10 @@ NOTA:<br>
 ESTO ES TODO CON FINES EDUCATIVOS Y NO ILEGALES, RECHAZO CUALQUIER OTRO USO.<br>
 
 OBVIAMENTE ES DE USO GRATUITO Y SE PUEDE MODIFICAR Y COPIAR.<br>
+
+<br><br>
+PORTFOLIO<br>
+<br>
+- <a href="https://github.com/Fantanchero/WickedPortal">WickedPortal</a>: Proyecto educativo colaborativo de la carrera de Tecnólogo en Ciberseguridad para simular un captive portal y mostrar riesgos comunes en redes Wi-Fi abiertas.<br>
+  Dashboard simulado: <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/Fantanchero/WickedPortal/main/index.html">ver dashboard</a><br>
+- <a href="https://github.com/capibarista/Unloockey">Unloockey</a>: Proyecto personal para generar wordlists a partir de datos de perfil con fines educativos.<br>
